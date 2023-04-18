@@ -12,6 +12,9 @@
 - Pytorch
 - Keras
 - Scikit-learn
+- Computer Vision
+- NLP
+
 
 **Проект завершен 10 января 2023**
 
@@ -29,5 +32,7 @@ Develop a model connecting text data and images.
 - Pytorch
 - Keras
 - Scikit-learn
+- Computer Vision
+- NLP
 
 **The project was completed on January 10, 2023**
